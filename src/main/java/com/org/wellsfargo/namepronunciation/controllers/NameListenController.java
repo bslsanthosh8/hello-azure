@@ -1,4 +1,4 @@
-package com.amock.helloazure.controllers;
+package com.org.wellsfargo.namepronunciation.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
